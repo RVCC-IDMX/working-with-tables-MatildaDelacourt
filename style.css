@@ -1,3 +1,14 @@
 body {
   background-color: aliceblue;
+  /* Photo by Marcela Laskoski on Unsplash */
+  background-image:url(img/djpic.webp);
+  color: #72ca32;  
+  background-size: 100%;
+  opacity: 80%;
+}
+td{
+  text-align: center;
+}
+h1{
+  text-align: center;
 }
